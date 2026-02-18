@@ -10,11 +10,13 @@
 # 2. 변경 내용
 ## 2-1. 커스텀 예외 추가 (`users/exceptions.py`)
 `KakaoAccountNotAvailableError` 예외 클래스를 신규 생성했다.
+
 |항목|값|
 |---|---|
 |status_code|400|
 |default_detail|"카카오톡 계정 상태를 확인할 수 없습니다. 카카오톡 연동 상태를 확인해주세요."|
 |default_code|"kakao_account_not_available"|
+
 이는 카카오 계정에 문제가 있는 유저가 요청할 시 사용하는 클래스이다.
 status code로 인해서 이 에러는 400의 상태로 프론트엔드에 전달될 것이다.
   
