@@ -49,7 +49,7 @@ status code로 인해서 이 에러는 400의 상태로 프론트엔드에 전�
   
 [https://bind-vw.sentry.io/explore/discover/homepage/?dataset=errors&end=2026-02-13T04%3A00%3A59&field=title&field=project&field=user.display&field=timestamp&name=All Errors&query=%2Fv1%2Fuser%2Fkakao-channel-added&queryDataset=error-events&sort=-timestamp&start=2026-02-09T15%3A00%3A00&yAxis=count()](https://bind-vw.sentry.io/explore/discover/homepage/?dataset=errors&end=2026-02-13T04%3A00%3A59&field=title&field=project&field=user.display&field=timestamp&name=All%20Errors&query=%2Fv1%2Fuser%2Fkakao-channel-added&queryDataset=error-events&sort=-timestamp&start=2026-02-09T15%3A00%3A00&yAxis=count%28%29)
   
-![[99.첨부파일/image 61.png|image 61.png]]
+![[../../../../../../99.첨부파일/image 61.webp|image 61.png]]
   
 - 총 개수 6,174
   
@@ -59,6 +59,6 @@ status code로 인해서 이 에러는 400의 상태로 프론트엔드에 전�
   
 [https://bind-vw.sentry.io/explore/discover/homepage/?dataset=errors&end=2026-02-15T14%3A59%3A59&field=title&field=project&field=user.display&field=timestamp&name=All Errors&query=%2Fv1%2Fuser%2Fkakao-channel-added&queryDataset=error-events&sort=-timestamp&start=2026-02-13T05%3A00%3A00&yAxis=count()](https://bind-vw.sentry.io/explore/discover/homepage/?dataset=errors&end=2026-02-15T14%3A59%3A59&field=title&field=project&field=user.display&field=timestamp&name=All%20Errors&query=%2Fv1%2Fuser%2Fkakao-channel-added&queryDataset=error-events&sort=-timestamp&start=2026-02-13T05%3A00%3A00&yAxis=count%28%29)
   
-![[99.첨부파일/image 1 39.png|image 1 39.png]]
+![[../../../../../../99.첨부파일/image 1 39.webp|image 1 39.png]]
   
 - 총 개수 98
